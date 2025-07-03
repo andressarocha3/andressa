@@ -1,23 +1,23 @@
 criaCartao(
     'Programação',
-    'Para que o curso de progamação agrega no nosso dia a dia',
-    'a '
+    'Para que o curso de progamação agrega no nosso dia a dia?',
+    'a progamação nos ajuda a compreender mais sobre informações do nosso mundo digital '
 )
 
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Em que América o Brasil está localizado?',
+    'está localizado na América do Sul'
 )
 
 criaCartao(
     'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'O que é algoritimo?',
+    'conjunto das regras e procedimentos lógicos perfeitamente definidos que levam à solução de um problema'
 )
 
 criaCartao(
     'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Como se diz bom dia em inglês?',
+    'bom dia em ingles é good morning'
 )
